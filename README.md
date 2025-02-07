@@ -68,7 +68,7 @@ This project is a *MERN Stack Online Book Store* application that offers feature
 📈 Analytics Dashboard: Display sales and performance metrics.
 🌟 User Reviews: Allow users to review and rate books.
 
-###Screenshots 📸:
+### Screenshots 📸:
 
 ![Book Store ](https://github.com/Harshit9026/Mern-Book-Store/blob/main/client/src/assets/WhatsApp%20Image%202025-01-06%20at%2014.46.29_d20c6b11.jpg?raw=true)
 
@@ -89,7 +89,7 @@ License 📝
 This project is licensed under the MIT License.
 
 Author ✍
-Developed by punitgithubboy.
+Developed by anishagupta03.
 
 ### How to Use:
 
