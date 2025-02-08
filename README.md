@@ -50,7 +50,7 @@ This project is a *MERN Stack Online Book Store* application that offers feature
 #### Backend:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/punitgithubboy/Mern-Book-Store.git
+   git clone https://github.com/AnishaGputa03/Mern-Book-Store.git
    cd backend
    npm install
    npm run dev
